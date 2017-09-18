@@ -6,7 +6,8 @@ Thanks to Christian Brodbeck, Teon Brooks, Yasuhiro Haruta, and developers of MN
 ## Part 1. importing continuous MEG data
 
 In this demonstration, the basic information of a SQD file is in the figure below:
-![figure1](testing_MNE_Python/pic/demoA_00_info.png "figure1")
+
+![figure1](https://raw.githubusercontent.com/deltaphase/testing_MNE_Python/pic/demoA_00_info.png "figure1")
 
 1. import a CON file:
 
