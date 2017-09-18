@@ -6,7 +6,7 @@ Thanks to Christian Brodbeck, Teon Brooks, Yasuhiro Haruta, and developers of MN
 
 1. import a CON file:
 
-```
+```python
 import mne
 import matplotlib.pyplot as plt
 
