@@ -1,8 +1,12 @@
-# testing read_raw_kit using SQD files recorded at Taiwan
+# testing `read_raw_kit` using SQD files recorded at Taiwan
 
 Thanks to Christian Brodbeck, Teon Brooks, Yasuhiro Haruta, and developers of MNE-Python. Now the the SQD file recored from the MEG system in the Academia Sinica at Taiwan can be read directly using `read_raw_kit`. This report is a demonstration of my experience in using `read_raw_kit` with SQD data recorded in my lab. I aimed to check information of measured data and trigger onsets shown in mne-python and in MegLaboratory (v2.004A).
 
+
 ## Part 1. importing continuous MEG data
+
+In this demonstration, the basic information of a SQD file is in the figure below:
+![figure1](testing_MNE_Python/pic/demoA_00_info.png "figure1")
 
 1. import a CON file:
 
